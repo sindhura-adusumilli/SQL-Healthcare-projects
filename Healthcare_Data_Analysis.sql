@@ -1,5 +1,4 @@
 -- DATA ANALYSIS USING SQL ON HealthCare Database 
-	-- This dataset is not based on real facts, please don't consider the result sets to be actual and utilize it for any purpose.
     
 -- Creating Database named Healthcare.
 CREATE DATABASE Healthcare;
